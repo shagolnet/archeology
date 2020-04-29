@@ -1,2 +1,1 @@
-# archeology
-to do do do
+== Welcome to Rails
